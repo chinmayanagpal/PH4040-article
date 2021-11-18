@@ -1,0 +1,8 @@
+1. Aharonov Y., Vaidman L. (2008) The Two-State Vector Formalism: An Updated Review. In: Muga J., Mayato R.S., Egusquiza Í. (eds) Time in Quantum Mechanics.  Lecture Notes in Physics, vol 734. Springer, Berlin, Heidelberg.  https://doi.org/10.1007/978-3-540-73473-4_13
+2. Danan, A., Farfurnik, D., Bar-Ad, S., & Vaidman, L. (2013). Asking Photons Where They Have Been. Phys. Rev. Lett., 111, 240402.
+3. John Bell (1990). Against `measurement'. Physics World 3(8), 33–41.
+4. J. S. Lundeen, Physics, 6, 133 (2013).
+5. Aharonov, Y., Bergmann, P., & Lebowitz, J. (1964). Time Symmetry in the Quantum Process of Measurement. Phys. Rev., 134, B1410–B1416.
+6. PH2012 QM notes (if possible)
+
+http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/interf.html#c2

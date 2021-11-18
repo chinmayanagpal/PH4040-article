@@ -18,3 +18,12 @@ every path it could have taken between the two measurements. This gives rise to
 the phenomenon of a particle interfering with itself before being measured, as 
 demonstrated by experiments employing the simple Mach-Zehnder interferometer 
 and the single-particle version of Young's double slit experiment. 
+
+
+## Feedback:
+
+1. Jonathan: Introduce Mach-Zehnder interferometer. Either say in parentheses 
+   that i will explain below or mention it for the first time in the next 
+   paragraph. 
+
+2. Phrasing of last sentence of the first paragraph. 

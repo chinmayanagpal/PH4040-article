@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="188.15504mm"
+   height="111.04435mm"
+   version="1.1"
+   viewBox="0 0 188.15505 111.04435"
+   id="svg2028"
+   sodipodi:docname="interferometer-braket.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2030"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.51489565"
+     inkscape:cx="244.70978"
+     inkscape:cy="-166.05306"
+     inkscape:window-width="1528"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2028" />
+  <defs
+     id="defs1888">
+    <marker
+       id="marker1693"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="scale(-0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path1885" />
+    </marker>
+  </defs>
+  <path
+     d="m 72.140285,80.02905 -2.0952,-2.0952 -31.126,31.126 1.9845,1.9845 z"
+     fill="#afdde9"
+     stroke-width="0.26458"
+     id="path1890" />
+  <path
+     d="m 68.053285,75.94905 -31.236,31.015 2.1026,2.1026 31.126,-31.126 z"
+     stroke-width="0.26458"
+     id="path1892" />
+  <path
+     d="m 54.676285,16.83905 v 76.641"
+     fill="none"
+     opacity="0.4"
+     stroke="#e90000"
+     stroke-miterlimit="2"
+     stroke-opacity="0.98926"
+     stroke-width="1.0583"
+     id="path1894" />
+  <path
+     d="M 133.54728,93.47905 H 54.681285"
+     fill="none"
+     opacity="0.4"
+     stroke="#e90000"
+     stroke-opacity="0.97172"
+     stroke-width="1.0583"
+     id="path1896" />
+  <g
+     transform="translate(-3.8917151,-35.60485)"
+     fill="#fe9e9e"
+     id="g1904">
+    <g
+       fill="#fe9e9e"
+       stroke="#000000"
+       id="g1902">
+      <rect
+         x="4.1563001"
+         y="119.18"
+         width="19.635"
+         height="16.702"
+         stroke-width="0.52917"
+         id="rect1898" />
+      <path
+         d="m 7.67,129.2 h 3.4837 m 10.191,0 h -3.882 l -6.3087,-3.6418 v 7.2835 L 17.4627,129.2 m 0,-3.6418 v 7.2835 M 6.6027,129.2 h 4.5509 m 6.3087,-6.0696 -1.5772,3.0348 m 0.63087,-2.7313 0.94631,-0.30347 0.31544,0.91043 m -2.5235,-1.8209 -1.5772,3.0348 m 0.63087,-2.7313 0.94631,-0.30347 0.31544,0.91044"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.58729"
+         id="path1900" />
+    </g>
+  </g>
+  <g
+     transform="translate(164.43488,-111.92595)"
+     id="g1932"
+     style="fill:#fafd94">
+    <g
+       fill="#fafd94"
+       id="g1930">
+      <g
+         fill="#fafd94"
+         id="g1928">
+        <g
+           transform="translate(-0.33572)"
+           fill="#fafd94"
+           id="g1926">
+          <g
+             fill="#fafd94"
+             stroke="#000000"
+             id="g1924">
+            <rect
+               x="4.1563001"
+               y="119.18"
+               width="19.635"
+               height="16.702"
+               stroke-width="0.52917"
+               id="rect1920" />
+            <path
+               d="m 7.67,129.2 h 3.4837 m 10.191,0 h -3.882 l -6.3087,-3.6418 v 7.2835 L 17.4627,129.2 m 0,-3.6418 v 7.2835 M 6.6027,129.2 h 4.5509 m 6.3087,-6.0696 -1.5772,3.0348 m -0.40552,-0.74435 0.40552,0.74435 0.886,-0.0881 m -1.5169,-3.8572 -1.5772,3.0348 m -0.33106,-0.91691 0.33106,0.91691 1.0116,-0.46659"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               stroke-width="0.58729"
+               id="path1922" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     d="m 19.288285,93.47905 h 35.388"
+     fill="none"
+     stroke="#e90000"
+     stroke-opacity="0.99544"
+     stroke-width="1.0583"
+     id="path1936" />
+  <text
+     x="39.648724"
+     y="85.234467"
+     font-family="'Comic Sans MS'"
+     font-size="10.583px"
+     stroke-width="0.26458"
+     word-spacing="0px"
+     style="line-height:1.25"
+     xml:space="preserve"
+     id="text1940"><tspan
+       x="39.648724"
+       y="85.234467"
+       font-family="'Comic Sans MS'"
+       stroke-width="0.26458"
+       id="tspan1938" /></text>
+  <text
+     x="39.196522"
+     y="82.624908"
+     font-family="monospace"
+     font-size="10.583px"
+     stroke-width="0.26458"
+     word-spacing="0px"
+     style="line-height:1.25"
+     xml:space="preserve"
+     id="text1944"><tspan
+       x="39.196522"
+       y="82.624908"
+       font-family="monospace"
+       stroke-width="0.26458"
+       id="tspan1942" /></text>
+  <g
+     transform="translate(-23.918115,-33.7017)"
+     stroke-width="0.26458"
+     id="g1978">
+    <path
+       d="m 138.54,64.717 2.0952,2.0952 31.126,-31.126 -1.9845,-1.9845 z"
+       fill="#afdde9"
+       id="path1974" />
+    <path
+       d="m 142.63,68.804 31.236,-31.015 -2.1026,-2.1026 -31.126,31.126 z"
+       id="path1976" />
+  </g>
+  <path
+     d="m 122.32728,107.03905 25.011,-24.79 -2.1026,-2.1025 -24.901,24.901 z"
+     stroke-width="0"
+     id="path1980" />
+  <g
+     fill="none"
+     stroke="#e90000"
+     stroke-width="1.0583"
+     id="g1988"
+     transform="translate(-20.692715,-33.99095)">
+    <path
+       d="m 154.24,127.47 1e-5,-76.22"
+       opacity="0.4"
+       stroke-miterlimit="2"
+       stroke-opacity="0.98926"
+       id="path1982" />
+    <path
+       d="m 75.369,50.83 78.873,1e-6"
+       opacity="0.4"
+       stroke-opacity="0.97172"
+       id="path1984" />
+    <path
+       d="m 186.82,50.83 -32.472,2e-6"
+       marker-start="url(#marker1693)"
+       stroke-opacity="0.99544"
+       id="path1986" />
+  </g>
+  <g
+     font-size="10.583px"
+     stroke-width="0.26458"
+     word-spacing="0px"
+     id="g2002"
+     transform="translate(-20.692715,-33.99095)">
+    <text
+       x="73.412468"
+       y="19.889479"
+       font-family="'Comic Sans MS'"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1992"><tspan
+         x="73.412468"
+         y="19.889479"
+         font-family="'Comic Sans MS'"
+         stroke-width="0.26458"
+         id="tspan1990" /></text>
+    <text
+       x="72.960266"
+       y="17.279921"
+       font-family="monospace"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1996"><tspan
+         x="72.960266"
+         y="17.279921"
+         font-family="monospace"
+         stroke-width="0.26458"
+         id="tspan1994" /></text>
+    <text
+       x="73.174408"
+       y="12.258557"
+       font-family="'Times New Roman'"
+       font-style="italic"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text2000"><tspan
+         x="73.174408"
+         y="12.258557"
+         font-family="'Times New Roman'"
+         font-style="italic"
+         stroke-width="0.26458"
+         id="tspan1998" /></text>
+  </g>
+  <path
+     d="m 43.468285,30.82005 25.011,-24.79 -2.1026,-2.1025 -24.901,24.901 z"
+     stroke-width="0"
+     id="path2004" />
+  <g
+     font-size="7.0556px"
+     id="g1099"
+     transform="translate(-20.70705,-34.191557)">
+    <text
+       x="79.167191"
+       y="89.797096"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1081"><tspan
+         x="79.167191"
+         y="89.797096"
+         font-family="monospace"
+         font-size="7.0556px"
+         stroke-width="0.26458"
+         id="tspan1079">$\ket{R}</tspan></text>
+    <text
+       x="104.76373"
+       y="124.12836"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1089"><tspan
+         x="104.76373"
+         y="124.12836"
+         font-family="monospace"
+         font-size="7.0556px"
+         stroke-width="0.26458"
+         id="tspan1087">$\ket{T}$</tspan></text>
+  </g>
+</svg>

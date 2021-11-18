@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="188.15504mm"
+   height="129.26378mm"
+   version="1.1"
+   viewBox="0 0 188.15505 129.26378"
+   id="svg1157"
+   sodipodi:docname="interferometer1.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1159"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.99883804"
+     inkscape:cx="394.45835"
+     inkscape:cy="191.72277"
+     inkscape:window-width="1912"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1157" />
+  <defs
+     id="defs1017">
+    <marker
+       id="marker1693"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="scale(-0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path1014" />
+    </marker>
+  </defs>
+  <path
+     d="m 72.140285,98.248482 -2.0952,-2.0952 -31.126,31.125998 1.9845,1.9845 z"
+     fill="#afdde9"
+     stroke-width="0.26458"
+     id="path1019" />
+  <path
+     d="m 68.053285,94.168482 -31.236,31.014998 2.1026,2.1026 31.126,-31.125998 z"
+     stroke-width="0.26458"
+     id="path1021" />
+  <path
+     d="M 54.676285,35.058482 V 111.69948"
+     fill="none"
+     opacity="0.4"
+     stroke="#e90000"
+     stroke-miterlimit="2"
+     stroke-opacity="0.98926"
+     stroke-width="1.0583"
+     id="path1023" />
+  <path
+     d="M 133.54728,111.69848 H 54.681285"
+     fill="none"
+     opacity="0.4"
+     stroke="#e90000"
+     stroke-opacity="0.97172"
+     stroke-width="1.0583"
+     id="path1025" />
+  <g
+     fill="#fe9e9e"
+     stroke="#000000"
+     id="g1031"
+     transform="translate(-3.8917151,-17.385418)">
+    <rect
+       x="4.1563001"
+       y="119.18"
+       width="19.635"
+       height="16.702"
+       stroke-width="0.52917"
+       id="rect1027" />
+    <path
+       d="m 7.67,129.2 h 3.4837 m 10.191,0 h -3.882 l -6.3087,-3.6418 v 7.2835 L 17.4627,129.2 m 0,-3.6418 v 7.2835 M 6.6027,129.2 h 4.5509 m 6.3087,-6.0696 -1.5772,3.0348 m 0.63087,-2.7313 0.94631,-0.30347 0.31544,0.91043 m -2.5235,-1.8209 -1.5772,3.0348 m 0.63087,-2.7313 0.94631,-0.30347 0.31544,0.91044"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.58729"
+       id="path1029" />
+  </g>
+  <g
+     transform="translate(164.43488,-93.706518)"
+     id="g1061"
+     style="fill:#fafd94">
+    <g
+       fill="#fafd94"
+       id="g1059">
+      <g
+         fill="#fafd94"
+         id="g1057">
+        <g
+           transform="translate(-0.33572)"
+           fill="#fafd94"
+           id="g1055">
+          <g
+             fill="#fafd94"
+             stroke="#000000"
+             id="g1053">
+            <rect
+               x="4.1563001"
+               y="119.18"
+               width="19.635"
+               height="16.702"
+               stroke-width="0.52917"
+               id="rect1049" />
+            <path
+               d="m 7.67,129.2 h 3.4837 m 10.191,0 h -3.882 l -6.3087,-3.6418 v 7.2835 L 17.4627,129.2 m 0,-3.6418 v 7.2835 M 6.6027,129.2 h 4.5509 m 6.3087,-6.0696 -1.5772,3.0348 m -0.40552,-0.74435 0.40552,0.74435 0.886,-0.0881 m -1.5169,-3.8572 -1.5772,3.0348 m -0.33106,-0.91691 0.33106,0.91691 1.0116,-0.46659"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               stroke-width="0.58729"
+               id="path1051" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     d="m 19.288285,111.69848 h 35.388"
+     fill="none"
+     stroke="#e90000"
+     stroke-opacity="0.99544"
+     stroke-width="1.0583"
+     id="path1065" />
+  <text
+     x="39.648724"
+     y="103.4539"
+     font-family="'Comic Sans MS'"
+     font-size="10.583px"
+     stroke-width="0.26458"
+     word-spacing="0px"
+     style="line-height:1.25"
+     xml:space="preserve"
+     id="text1069"><tspan
+       x="39.648724"
+       y="103.4539"
+       font-family="'Comic Sans MS'"
+       stroke-width="0.26458"
+       id="tspan1067" /></text>
+  <text
+     x="39.196522"
+     y="100.84435"
+     font-family="monospace"
+     font-size="10.583px"
+     stroke-width="0.26458"
+     word-spacing="0px"
+     style="line-height:1.25"
+     xml:space="preserve"
+     id="text1073"><tspan
+       x="39.196522"
+       y="100.84435"
+       font-family="monospace"
+       stroke-width="0.26458"
+       id="tspan1071" /></text>
+  <text
+     x="39.410664"
+     y="95.822983"
+     font-size="10.583px"
+     font-style="italic"
+     style="line-height:1.25;font-family:'Times New Roman';word-spacing:0px;stroke-width:0.26458"
+     xml:space="preserve"
+     id="text1077"><tspan
+       x="39.410664"
+       y="95.822983"
+       font-family="'Times New Roman'"
+       font-style="italic"
+       stroke-width="0.26458"
+       id="tspan1075" /></text>
+  <g
+     font-size="7.0556px"
+     id="g1099"
+     transform="translate(-20.692821,-15.771285)"
+     style="font-family:'Times New Roman';word-spacing:0px;stroke-width:0.26458">
+    <text
+       x="79.167191"
+       y="89.797096"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1081"><tspan
+         x="79.167191"
+         y="89.797096"
+         font-family="monospace"
+         font-size="7.0556px"
+         stroke-width="0.26458"
+         id="tspan1079">$\phi = \pi$</tspan></text>
+    <text
+       x="155.68634"
+       y="90.053421"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1085"><tspan
+         x="155.68634"
+         y="90.053421"
+         font-family="monospace"
+         font-size="7.0556px"
+         stroke-width="0.26458"
+         id="tspan1083">$\phi = \pi$</tspan></text>
+    <text
+       x="104.76373"
+       y="124.12836"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1089"><tspan
+         x="104.76373"
+         y="124.12836"
+         font-family="monospace"
+         font-size="7.0556px"
+         stroke-width="0.26458"
+         id="tspan1087">$\phi = 0$</tspan></text>
+    <text
+       x="104.99336"
+       y="47.573364"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1093"><tspan
+         x="104.99336"
+         y="47.573364"
+         font-family="monospace"
+         font-size="7.0556px"
+         stroke-width="0.26458"
+         id="tspan1091">$\phi = 0$</tspan></text>
+    <text
+       x="46.74062"
+       y="124.58437"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text1097"><tspan
+         x="46.74062"
+         y="124.58437"
+         font-family="monospace"
+         font-size="7.0556px"
+         stroke-width="0.26458"
+         id="tspan1095">$\phi = 0$</tspan></text>
+  </g>
+  <path
+     d="m 149.94728,22.305482 -2.0952,-2.0952 -31.126,31.126 1.9845,1.9845 z"
+     fill="#afdde9"
+     id="path1103"
+     style="stroke-width:0.26458" />
+  <path
+     d="m 145.85728,18.218482 -31.236,31.015 2.1026,2.1026 31.126,-31.126 z"
+     id="path1105"
+     style="stroke-width:0.26458" />
+  <path
+     d="m 122.32728,125.25848 25.011,-24.79 -2.1026,-2.102498 -24.901,24.900998 z"
+     stroke-width="0"
+     id="path1109" />
+  <path
+     d="m 133.54728,111.69848 1e-5,-76.219998"
+     opacity="0.4"
+     stroke-miterlimit="2"
+     stroke-opacity="0.98926"
+     id="path1111"
+     style="fill:none;stroke:#e90000;stroke-width:1.0583" />
+  <path
+     d="m 54.676285,35.058482 78.872995,1e-6"
+     opacity="0.4"
+     stroke-opacity="0.97172"
+     id="path1113"
+     style="fill:none;stroke:#e90000;stroke-width:1.0583" />
+  <path
+     d="m 133.54728,3.006482 1e-5,32.472"
+     marker-start="url(#marker1693)"
+     stroke-opacity="0.99544"
+     id="path1115"
+     style="fill:none;stroke:#e90000;stroke-width:1.0583" />
+  <text
+     x="52.719753"
+     y="4.1179614"
+     font-family="'Comic Sans MS'"
+     style="font-size:10.583px;line-height:1.25;word-spacing:0px;stroke-width:0.26458"
+     xml:space="preserve"
+     id="text1121"><tspan
+       x="52.719753"
+       y="4.1179614"
+       font-family="'Comic Sans MS'"
+       stroke-width="0.26458"
+       id="tspan1119" /></text>
+  <text
+     x="52.267551"
+     y="1.5084032"
+     font-family="monospace"
+     style="font-size:10.583px;line-height:1.25;word-spacing:0px;stroke-width:0.26458"
+     xml:space="preserve"
+     id="text1125"><tspan
+       x="52.267551"
+       y="1.5084032"
+       font-family="monospace"
+       stroke-width="0.26458"
+       id="tspan1123" /></text>
+  <text
+     x="52.481693"
+     y="-3.5129611"
+     font-family="'Times New Roman'"
+     font-style="italic"
+     style="font-size:10.583px;line-height:1.25;word-spacing:0px;stroke-width:0.26458"
+     xml:space="preserve"
+     id="text1129"><tspan
+       x="52.481693"
+       y="-3.5129611"
+       font-family="'Times New Roman'"
+       font-style="italic"
+       stroke-width="0.26458"
+       id="tspan1127" /></text>
+  <path
+     d="m 43.468285,49.039482 25.011,-24.79 -2.1026,-2.1025 -24.901,24.901 z"
+     stroke-width="0"
+     id="path1133" />
+  <text
+     x="193.0188"
+     y="39.408581"
+     style="font-size:10.583px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.26458"
+     xml:space="preserve"
+     id="text1137"><tspan
+       x="193.0188"
+       y="39.408581"
+       stroke-width="0.26458"
+       id="tspan1135" /></text>
+  <text
+     x="176.97968"
+     y="21.138376"
+     style="font-size:10.583px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.26458"
+     xml:space="preserve"
+     id="text1141"><tspan
+       x="176.97968"
+       y="21.138376"
+       stroke-width="0.26458"
+       id="tspan1139" /></text>
+</svg>

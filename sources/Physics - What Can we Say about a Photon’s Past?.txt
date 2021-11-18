@@ -1,0 +1,181 @@
+VIEWPOINT
+
+What Can we Say about a Photon’s
+Past?
+Je� Lundeen
+Department of Physics, University of Ottawa, MacDonald Hall, 150 Louis Pasteur Road,
+Ottawa, Ontario K1N 6N5, Canada
+December 9, 2013 • Physics 6, 133
+An experiment demonstrates that even when physicists think a quantum particle
+has followed a single path it might not have.
+
+APS/Alan Stonebraker
+
+Figure 1: Various forms of the double-slit interference experiment have allowed physicists to
+explore what can—and can’t—be said about the history of a quantum particle. (Top) The classic
+double-slit experiment with photons. (Middle) The double slit experiment... Show more
+
+Quantum theory provides the foundation for much of the technology of modern
+society. And yet, physicists are still not sure how to think about some of its underlying
+concepts. One of these is the history of a quantum particle: when we measure an
+electron or photon in a detector, we can’t be sure of what trajectory it took to get there
+from the source. Whereas a classical particle traveling between two points always has
+a single trajectory as its history (think of a cannonball), the history of a quantum
+particle arriving at a detector is made up of every path it could have taken from where
+it started. Writing in Physical Review Letters, Ariel Danan and colleagues at Tel-Aviv
+University, Israel, present a modern version of the famous double-slit experiment with
+light that underscores how di�icult it is to know a quantum particle’s past [1]. They
+show that even when their experiment blocks light from taking certain paths to a
+detector, these forbidden paths still appear to be part of the photons’ history.
+In the double-slit interference experiment (Fig. 1, top), a beam of photons impinges on
+two closely spaced slits. A light-sensitive screen placed on the opposite side of the slits
+will reveal a pattern due to the wavelike interference between the two possible paths—
+top slit or bottom slit—the photon can take to any point on the screen. But which slit
+did the photon travel through on its way to the screen? Two common answers are
+“both slits” and “one cannot say,” but either way, the photon’s trajectory (its history) is
+ambiguous.
+One can try to find which path a photon takes by inserting a lens a�er each slit—the
+idea being that each lens will only collimate those photons arriving from its respective
+slit. In this “which-way” measurement [2], the interference pattern on the screen
+should disappear and be replaced by two distinct spots, one for each slit (Fig. 1,
+middle). It would then seem safe to assume that a photon detected in, say, the upper
+spot, must have taken the route through the upper slit. That is, it appears that there is
+no confusion in this case: the photon had a single trajectory as its history.
+The Tel-Aviv experiment calls even this seemingly safe assertion into question. Danan
+et al. use a Mach-Zehnder interferometer (MZI), in which the two output ports of a
+beam splitter—the reflection path and the transmission path—take the place of the
+two slits (Fig. 1, bottom). These two outputs lead to an upper and lower arm, which
+
+recombine the photons at a second beam splitter. They set up the path lengths of the
+two arms so that their outputs interfere constructively, ensuring that all photons exit
+the second beam splitter in the same direction. Instead of asking “which slit?” the
+photon travels through, the authors ask “which arm?”
+The authors probe where the photons were in two situations: when there is
+interference and when there is a “which-way” measurement. To label the particular
+path of the photon, i.e., whether it went via the upper or lower arm, the authors insert
+in each arm a mirror whose vertical tilt vibrates at a unique frequency. The vibrating
+mirror deflects the beam up and down but only by a small amount so as to not disturb
+the interference. Then, the authors monitor the frequency spectrum of the vertical
+position of the photons exiting the second beam splitter. If the spectrum contains the
+same frequency as that of the vibrating mirror in, say, the upper arm of the
+interferometer, this suggests some of the photons traveled down that arm (and
+similarly for the lower arm.) And indeed, when the beam splitter that combines light
+from the upper and lower arms is in place, two frequencies are observed, suggesting
+photons traveled through both arms. Removing this beam splitter functions as a
+which-way measurement; only light from the lower arm reaches the detector. In this
+case Danan et al. only see the frequency associated with the lower arm. The photon
+had definitely traveled along a single trajectory: through the lower arm to the detector.
+But Danan et al. see a surprising e�ect when they then insert a mini-MZI in the upper
+arm. In this more complex setup, photons pass from the upper arm to the second
+beam splitter only when the mini-MZI is set for constructive interference, while
+deconstructive interference diverts this light. In this way, the mini-MZI lets the
+experimentalists switch between observing interference between light that traveled in
+the upper and lower arms of the large MZI and observing only that light that traveled
+through the lower arm. The researchers additionally now vibrate all the mirrors in the
+upper arm—the ones before, inside, and a�er the mini-MZI.
+With the mini-MZI set to pass light, the researchers observe frequencies corresponding
+to every path through the system to the detector. That is, the photons had no unique
+trajectory, much like in the double-slit experiment. But by setting the mini-MZI to
+divert light exiting the upper arm, the authors are again able to perform a which-way
+measurement. As before, they see the lower arm frequency. The problem is they also
+see frequencies from both of the arms inside the mini-MZI, a perplexing observation
+for two reasons. First, it implies the photons reaching the detector traveled down a
+
+path (the upper arm) that should never have reached the detector. Second, they don’t
+see the frequencies from the mirrors just before and a�er the mini-MZI in the upper
+arm, so it’s as though the photons in the upper arm passed through the mini-MZI but
+never entered or exited it.
+At face value, the authors’ experimental results imply that even when it seems a
+particle must have followed a certain trajectory, we can’t rule out other paths. For
+example, even with the lenses in place in the double-slit experiment, it may be wrong
+to claim that the photon came from, say, the le� slit. One possibility is that lenses are
+okay but the mini-MZI is not, but this seems unlikely, since propagation through a lens
+is, like propagation through a MZI, a type of interference. And changing a phase at the
+lens can re-overlap the path from each slit so that interference can be observed at the
+screen. Thus the Tel Aviv work has potential implications for many which-way devices,
+particularly for the complicated ones used in delayed-choice experiments [3].
+Some have argued that there is a shortcoming in Danon et al.’s measurement
+procedure [4]. Namely, even though the labeling vibrations are small, they are
+su�icient to disrupt the interference in the mini-MZI. Thus, even if the mini-MZI is set to
+have deconstructive interference (i.e., set to “divert”), it will still allow a tiny number of
+photons to pass to the second beam splitter. But Danan et al. argue that another
+explanation is simpler (and thus better): one should consider not just the possible
+paths of the photons traveling forwards through the system but also the paths that a
+photon traveling backwards from the detector could take, an idea captured by what is
+called the two-state vector formalism [5]. The locations where these forwards and
+backwards paths coincide will have its corresponding frequency appear in the
+detected spectrum [6].
+As an experimental physicist, I find it almost impossible to build a setup without
+having a mental picture of the trajectory photons travel along from one point to
+another; how else can I know where to put mirrors or lenses? Yet, as Feynman
+discussed [7], a quantum particle takes every possible path through space from one
+point to another. Hence a particle’s propagation or evolution is reminiscent of a
+multipath interferometer, and, as Danan et al.’s experiments show, its final state
+carries the imprint of all possible paths.
+
+References
+
+1.
+
+A. Danan, D. Farfurnik, S. Bar-Ad, and L. Vaidman, “Asking Photons Where They
+Have Been,” Phys. Rev. Lett. 111, 240402 (2013)
+
+2.
+
+N. Bohr, in Albert Einstein: Philosopher-Scientist, edited by P. A. Schilpp (Library of
+Living Philosophers, Evanston, 1949); reprinted in Quantum Theory and
+Measurement, edited by J. A. Wheeler and W. H. Zurek (Princeton University
+Press, Princeton, 1983)[Amazon][WorldCat]
+
+3.
+
+A. Peruzzo, P. Shadbolt, N. Brunner, S. Popescu, and J. L. O’Brien, “A Quantum
+Delayed-Choice Experiment,” Science 338, 634 (2012)
+
+4.
+
+Z.-H. Li, M. Al-Amri, and M. Suhail Zubairy, “Comment on ‘Past of a Quantum
+Particle’,” Phys. Rev. A 88, 046102 (2013)
+
+5.
+
+Y. Aharonov, P. G. Bergmann, and J. L. Lebowitz, “Time Symmetry in the
+Quantum Process of Measurement,” Phys. Rev. 134, B1410 (1964)
+
+6.
+
+Y. Aharonov, D. Z. Albert, and L. Vaidman, “How the Result of a Measurement of a
+Component of the Spin of a Spin-1/2 Particle Can Turn Out to Be 100,” Phys. Rev.
+Lett. 60, 1351 (1988)
+
+7.
+
+R. Feynman, QED: The strange theory of light and matter (Princeton University
+Press, Princeton, 2006)[Amazon][WorldCat]
+
+About the Author
+
+Je� Lundeen completed a Ph.D. in experimental quantum optics and quantum
+information at the University of Toronto on the subject of quantum measurement. As
+an NSERC postdoctoral fellow at the University of Oxford, he pioneered the full
+tomographic characterization of a quantum detector. He then became a Research
+O�icer in Quantum Metrology at the National Research Council of Canada where he
+demonstrated the first direct measurement of the quantum wave function. He is now
+an Assistant Professor at the University of Ottawa where he performs experiments on
+
+single and entangled photons using integrated optical chips.
+
+Subject Areas
+Optics
+
+Quantum Physics
+
+PDF Version
+
+Asking Photons Where They Have Been
+A. Danan, D. Farfurnik, S. Bar-Ad, and L. Vaidman
+Phys. Rev. Lett. 111, 240402 (2013)
+Published December 9, 2013
+Read PDF
+
+

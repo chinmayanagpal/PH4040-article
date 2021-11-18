@@ -1,6 +1,6 @@
 - Introduction
     + What is the past of a quantum particle
-    + 
+    + Mach Zehnder interferometer
 
 - Wheeler's experiment
 - 
