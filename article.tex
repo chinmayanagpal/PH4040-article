@@ -4,16 +4,30 @@
 \title{May I Ask Where You Have Been, Photon?}
 \date{18 November 2021}
 
+\usepackage{svg}
+\usepackage{subfig}
+
+\newcommand{\Q}{\medskip\bfseries Q: }
+\newcommand{\A}{\par\textbf{A:} \normalfont}
 
 \begin{document}
 
 \maketitle
 
+\begin{figure}[ht]
+	\includesvg[width=\linewidth]{figures/interferometer1.svg}
+	\caption{Simple Mach Zehnder interferometer}
+	\label{fig:interferometer1}
+\end{figure}
+
 Quantum physics describes physical interactions that happen at the atomic and
 sub-atomic levels, and underpins the foundation for most of modern technology.
 However, physicists are still unsure how to use standard quantum theory to 
 answer the following question: what path did a photon take through an 
-interferometer before quantum measurement was performed? 
+interferometer before quantum measurement was performed?  A recent experiment 
+conducted by A. Danan and colleagues at Tel Aviv University in Israel sheds 
+light on how difficult it is exactly to answer this question in any but the 
+simplest of situations. 
 
 In classical physics, a particle travelling between two points has a single
 trajectory, which can be calculated by specifying its state at either endpoint
@@ -23,6 +37,24 @@ every path it could have taken between the two measurements. This gives rise to
 the phenomenon of a particle interfering with itself before being measured, as
 demonstrated by experiments like the single-particle version of Young's double
 slit experiment. 
+
+In the double slit experiment (as performed by Thomas Young), a beam of light 
+is passed through two closely spaced slits and projected onto the screen.  
+According to classical wave theory, the intensity of light detected at the 
+screen is given by the intensity of the incident waves as well as their 
+relative phases. Because of the different different distances traveled by 
+different wavefronts, phase difference arise, in turn giving rise to an 
+interference pattern on the screen, as shown in figure 
+\label{fig:uncollimated}. 
+
+\begin{figure}
+	\fbox{\subfloat[Standard 
+	setup]{\includesvg[width=0.5\linewidth]{figures/double-slit.svg}}\label{fig:uncollimated}}
+	\fbox{\subfloat[Collimated 
+	beams]{\includesvg[width=0.5\linewidth]{figures/collimated-double-slit.svg}}\label{fig:collimated}}
+	\caption{Young's double slit interference experiment}
+	\label{fig:double-slit}
+\end{figure}
 
 Another apparatus that can demonstrate single-particle interference is the
 Mach-Zehnder interferometer, which consists of a light source and a detector 
@@ -39,8 +71,63 @@ slit experiment. Extending the analogy to the double-slit experiment, if the
 light source in the Mach-Zehnder interferometer is tuned to a low-enough 
 intensity that single photons emitted can be resolved by the detector, it is 
 found that the photon arrives at the detector 100\% of the time, demonstrating 
-the phenomenon of a particle interfering with itself. Here, if we ask the 
-photon where it has been, our "common sense" approach to quantum mechanics says 
-that it has been in both the upper and the lower arm of the interferometer.
+the phenomenon of a particle interfering with itself. Of course, if we remove 
+the second beam splitter, there is a 50\% chance that the photon will show up 
+in our detector, and a 50\% chance that it will come out of the other branch of 
+the interferometer. 
+
+Here, we attempt to answer the titular question using the "common sense" 
+approach amateur science enthusiasts and undergraduate physics students are 
+familiar with:
+
+
+\Q May I Ask Where You Have Been, Photon?  
+
+\A The photon's trajectory in the interferometer is a superposition of the 
+classical trajectories through the upper and lower arms of the 
+interferometer.\medskip
+
+The Tel-Aviv experiment starts off with a modified version of the Mach-Zehnder 
+interferometer, in which each mirror oscillates vertically with a unique 
+frequency.  Additionally, instead of a simple photodetector, a stacked array of 
+detectors is used, making it possible to monitor the frequency spectrum of the 
+detected light wave. As expected, the power spectrum shows equal contributions 
+at frequencies $f_A$ and $f_B$ associated with mirrors $A$ and $B$. 
+
+Whilst this does not directly answer our question, since the photon source 
+emits numerous photons, which means that different ones could have caused the 
+peaks at $f_A$ and $f_B$, it at least confirms that some of the photons have 
+been at each mirror. 
+
+In the second variation of the experiment, the same steps are repeated, but 
+with the second beam splitter removed. This time, only the peak at $f_B$ 
+remains, again confirming our interpretation of the Mach-Zehnder interferometer 
+experiment. 
+
+Next, a larger interferometer is built, as illustrated in figure 
+\ref{fig:danan-2a}. There is a nested Mach-Zehnder interferometer in the upper 
+arm, and the beam intensity is now split 1:2 between the upper and the lower 
+arm, so the ratio of intensities at the vibrating mirrors $A$, $B$, and $C$ is 
+1:1:1.  Again, the power spectrum shows what we would expect: peaks at all 
+frequencies, with larger peaks at $f_E$ and $f_F$. 
+
+So far, the results of this experiment have confirmed our intuitive, "common 
+sense" approach to accounting for a quantum particle's trajectory as a sum of 
+all possible paths. The surprising result from this experiment is obtained when 
+the following changes are made, as illustrated in figure \ref{fig:danan-2b}:
+either the second beam splitter of the mini-Mach Zehnder interferometer is 
+flipped, or mirror $B$ is moved to slightly adjust the path length, causing 
+destructive interference of the light propagating towards $F$. 
+
+\begin{figure}
+	\subfloat[]{\includesvg[width=0.5\linewidth]{figures/danan-2a.svg}\label{fig:danan-2a}}
+	\subfloat[]{\includesvg[width=0.5\linewidth]{figures/danan-2b.svg}\label{fig:danan-2b}}
+	\newline
+	\hspace*{\fill}
+	\subfloat[]{\includesvg[width=0.5\linewidth]{figures/danan-2c.svg}\label{fig:danan-2c}}
+	\hspace*{\fill}
+	\caption{Nested Mach-Zehnder interferometer}
+	\label{fig:danan}
+\end{figure}
 
 \end{document}
