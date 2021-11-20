@@ -1,7 +1,7 @@
 \documentclass{article}
 \pdfsuppresswarningpagegroup=1
 
-\author{Chinmaya Nagpal}
+\author{190015824}
 \title{May I Ask Where You Have Been, Photon?}
 \date{18 November 2021}
 
@@ -16,10 +16,11 @@
 \maketitle
 
 \begin{figure}[ht]
+	\centering
 	\subfloat[Standard 
 	setup]{\fbox{\includesvg[width=0.5\linewidth]{figures/double-slit.svg}}\label{fig:uncollimated}}
 	\hspace*{\fill}
-	\subfloat["Which-way" experiment
+	\subfloat[``Which-way" experiment
 	]{\fbox{\includesvg[width=0.5\linewidth]{figures/collimated-double-slit.svg}}\label{fig:collimated}}
 	\caption{Young's double slit interference experiment}
 	\label{fig:double-slit}
@@ -29,32 +30,35 @@ Quantum physics describes physical interactions that happen at the atomic and
 sub-atomic levels, and underpins the foundation for most of modern technology.
 However, physicists are still unsure how to use standard quantum theory to 
 answer the following question: what path did a photon take through an 
-interferometer before quantum measurement was performed?  A recent experiment 
-conducted by A. Danan and colleagues at Tel Aviv University in Israel sheds 
-light on how difficult it is to answer this question in any but the simplest of 
-situations. 
+interferometer before quantum measurement was performed? In a 2013 paper,
+A. Danan and colleagues at Tel Aviv University in Israel shed light on how 
+difficult it is to answer this question in the simplest of experimental 
+situations, and highlight an alternative formalism in which their results find 
+concise form\cite{danan}. 
 
 In classical physics, a particle travelling between two points has a single
 trajectory, which can be calculated by specifying its state at either endpoint.  
 On the other hand, in quantum physics, performing a measurement on a particle 
 at the beginning and the end of a period (so-called \textit{pre-} and 
 \textit{post-selection}) only restricts the the trajectory a particle takes to 
-a weighted sum of every path it could have taken.\footnote{It is significant 
-that this procedure is not possible in the classical world---there, measuring a 
-particle's state at one endpoint gives us information about its whole 
-trajectory} This gives rise to the phenomenon of a particle interfering with 
-itself before being measured, as demonstrated by experiments like the 
-single-particle version of Young's double slit experiment. 
+a weighted sum of every path it could have 
+taken\cite{aharonov2008}.\footnote{It is significant that this procedure is not 
+possible in the classical world---there, measuring a particle's state at one 
+endpoint gives us information about its whole trajectory} This gives rise to 
+the phenomenon of a particle interfering with itself before being measured, as 
+demonstrated by experiments like the single-particle version of Young's double 
+slit experiment\cite{feynman}. 
 
 First performed in the early 19th century, the double slit experiment involves 
 a relatively simple procedure: a beam of light is passed through two closely 
 spaced slits and projected onto a screen, and the form of the light incident on 
-the screen is observed. Because of the wave nature of light, different 
-distances travelled by different wavefronts give rise to phase differences at 
-the screen, causing an interference pattern to appear, as illustrated in 
-figure~\ref{fig:uncollimated}. This appearance of light and dark bands is 
-similar to how ripples interfere in a pond, creating alternating zones of 
-maximal and minimal displacement based on how the crests and troughs overlap.
+the screen is observed\cite{feynman}. Because of the wave nature of light, 
+different distances travelled by different wavefronts give rise to phase 
+differences at the screen, causing an interference pattern to appear, as 
+illustrated in figure~\ref{fig:uncollimated}. This appearance of light and dark 
+bands is similar to how ripples interfere in a pond, creating alternating zones 
+of maximal and minimal displacement based on how the crests and troughs 
+overlap.
 
 In the modern version of this experiment, the continuous light source is 
 replaced by a light source emitting individual particles, and a photosensitive 
@@ -67,9 +71,9 @@ begging the question:
 \Q Where have you been, photon?  
 
 \A Because the particle underwent wave-like interference with itself, it can be 
-	said that it took a \textit{superposition} of \textit{all possible 
-paths} between the light source and the screen, meaning that it travelled 
-through \textit{both} slits.  \footnotemark \end{framed}
+said that it took a \textit{superposition of all possible paths} between the 
+light source and the screen, meaning that it travelled through \textit{both} 
+slits at once\cite{lundeen}.  \footnotemark \end{framed}
 
 \footnotetext{Because the particle was not observed at any point between the 
 source and the screen, another common position is to claim that \textit{one 
@@ -84,39 +88,39 @@ between source and detection is ambiguous}
 \end{figure}
 
 One way to try to ascertain where each photon has been (in a so-called 
-"which-way" experiment) is to insert a lens after each slit, as shown in 
-figure~\ref{fig:collimated}.  Each lens only collimates the photons that arrive 
-through the corresponding slit, causing the interference pattern to be replaced 
-by two distinct spots. It would then seem safe to assume that a photon detected 
-in the a spot on the screen must have travelled through the slit corresponding 
-to that spot. It does not seem possible that a photon detected in, say, the 
-upper spot would have gone through the lower lens. 
+``which-way" experiment) is to insert a lens after each slit, as shown in 
+figure~\ref{fig:collimated}\cite{bohr,lundeen}. Each lens only collimates the 
+photons that arrive through the corresponding slit, causing the interference 
+pattern to be replaced by two distinct spots. It would then seem safe to assume 
+that a photon detected in the a spot on the screen must have travelled through 
+the slit corresponding to that spot. It does not seem possible that a photon 
+detected in, say, the upper spot would have gone through the lower lens. 
 
-The Tel-Aviv experiment calls even this "common sense" reasoning into question.  
-The authors use the Mach-Zehnder interferometer, a device similar to Young's 
-apparatus but better suited to precise theoretical treatment in the framework 
-of quantum mechanics. It consists of a light source and a detector along with 
-two beam splitters (basically half-silvered mirrors) and two mirrors, arranged 
-as shown in figure~\ref{fig:interferometer1}. In the classical version of this 
-experiment, the light source emits a continuous beam of light, which partly 
-passes through and is partly reflected by the first beam splitter. The two 
-beams (of half the original intensity) that emerge are then directed by the two 
-mirrors to meet at the second beam splitter. Through a purely classical 
-phenomenon, reflection at the vacuum-silver interface of a mirror causes the 
-light to change phase (see labels on figure~\ref{fig:interferometer1}). A 
-sequence of these phase changes causes the beams coming out of the second beam 
-splitter to combine totally constructively on one side, and totally 
-destructively on the other, analogous to the bright and dark bands in the 
-classical double slit experiment. 
+The Tel-Aviv experiment calls even this ``common sense" reasoning into 
+question\cite{lundeen,danan}. The authors use the Mach-Zehnder interferometer, 
+a device similar to Young's apparatus but better suited to precise theoretical 
+treatment in the framework of quantum mechanics\cite{lahiri}. It consists of a 
+light source and a detector along with two beam splitters (basically 
+half-silvered mirrors) and two mirrors, arranged as shown in 
+figure~\ref{fig:interferometer1}. In the classical version of this experiment, 
+the light source emits a continuous beam of light, which partly passes through 
+and is partly reflected by the first beam splitter. The two beams (of half the 
+original intensity) that emerge are then directed by the two mirrors to meet at 
+the second beam splitter. Through a purely classical phenomenon, reflection at 
+the vacuum-silver interface of a mirror causes the light to change phase (see 
+labels on figure~\ref{fig:interferometer1}). A sequence of these phase changes 
+causes the beams coming out of the second beam splitter to combine totally 
+constructively on one side, and totally destructively on the other, analogous 
+to the bright and dark bands in the classical double slit experiment. 
 
 Extending this analogy, if the light source in the Mach-Zehnder interferometer 
 is tuned to a low-enough intensity that single photons emitted can be resolved 
 by the detector, it is found that the photon arrives at the detector 100\% of 
-the time, demonstrating the phenomenon of a particle interfering with itself.  
-Of course, if we remove the second beam splitter, there is a 50\% chance that 
-the photon will show up in our detector, and a 50\% chance that it will come 
-out of the other branch of the interferometer. Again, we can attempt to answer 
-the titular question using our "common sense" approach: 
+the time, demonstrating the phenomenon of a particle interfering with 
+itself\cite{lahiri}. Of course, if we remove the second beam splitter, there is 
+a 50\% chance that the photon will show up in our detector, and a 50\% chance 
+that it will come out of the other branch of the interferometer. Again, we can 
+attempt to answer the titular question using our ``common sense" approach: 
 
 \begin{framed}
 
@@ -133,33 +137,36 @@ the titular question using our "common sense" approach:
 \begin{figure}
 	\centering
 	\includesvg[width=0.7\linewidth]{figures/danan-1a.svg}
-	\caption{Modified Mach-Zehnder interferometer}
+	\caption{Modified Mach-Zehnder interferometer. Graph taken from 
+	\cite{danan}.}
 	\label{fig:danan-1a}
 \end{figure}
 
 Danan et al. start off with a slightly modified version of the Mach-Zehnder 
-interferometer, as shown in figure~\ref{fig:danan-1a}. To mark each possible 
-path of the photon, they make each mirror oscillate vertically with a unique 
-frequency. Then, to make it possible to monitor the frequency with which the 
-detected light oscillates (so called "weak measurement"), they use a stacked 
-array of detectors in place of a simple light detector. As expected, when the 
-experiment is performed with these simple alterations, the power spectrum shows 
-equal contributions at frequencies $f_A$ and $f_B$ associated with mirrors $A$ 
-and $B$. Whilst this does not directly indicated where individual photons have 
+interferometer, as shown in figure~\ref{fig:danan-1a}\cite{danan}. To mark each 
+possible path of the photon, they make each mirror oscillate vertically with a 
+unique frequency. Then, to make it possible to monitor the frequency with which 
+the detected light oscillates (so called ``weak 
+measurement"\cite{aharonov2008,danan}), they use a stacked array of detectors 
+in place of a simple light detector. As expected, when the experiment is 
+performed with these simple alterations, the power spectrum shows equal 
+contributions at frequencies $f_A$ and $f_B$ associated with mirrors $A$ and 
+$B$. Whilst this does not directly indicated where individual photons have 
 been---the photon source emits numerous photons, meaning that different photons 
 could have caused the peaks at $f_A$ and $f_B$---it at least confirms that some 
-of the photons have been at each mirror. 
+of the photons have been at each mirror\cite{danan}. 
 
 In the second variation of the experiment, the same steps are repeated, but 
-with the second beam splitter removed. This time, only the peak at $f_B$ 
-remains, again confirming our "common sense" approach to particle trajectories. 
+with the second beam splitter removed\cite{danan}. This time, only the peak at 
+$f_B$ remains, again confirming our ``common sense" approach to particle 
+trajectories. 
 
 Next, a larger interferometer is built, as illustrated in figure 
-\ref{fig:danan-2a}. There is a nested Mach-Zehnder interferometer in the upper 
-arm, and the beam intensity is now split 1:2 between the upper and the lower 
-arm, so the ratio of intensities at the vibrating mirrors $A$, $B$, and $C$ is 
-1:1:1.  Yet again, the power spectrum shows what we would expect: peaks at all 
-frequencies, with larger peaks at $f_E$ and $f_F$. 
+\ref{fig:danan-2a}\cite{danan}. There is a nested Mach-Zehnder interferometer 
+in the upper arm, and the beam intensity is now split 1:2 between the upper and 
+the lower arm, so the ratio of intensities at the vibrating mirrors $A$, $B$, 
+and $C$ is 1:1:1.  Yet again, the power spectrum shows what we would expect: 
+peaks at all frequencies, with larger peaks at $f_E$ and $f_F$. 
 
  \begin{figure}
 	\subfloat[]{\includesvg[width=0.5\linewidth]{figures/danan-2a.svg}\label{fig:danan-2a}}
@@ -168,7 +175,8 @@ frequencies, with larger peaks at $f_E$ and $f_F$.
 	\hspace*{\fill}
 	\subfloat[]{\includesvg[width=0.5\linewidth]{figures/danan-2c.svg}\label{fig:danan-2c}}
 	\hspace*{\fill}
-	\caption{Nested Mach-Zehnder interferometer}
+	 \caption{Nested Mach-Zehnder interferometer. Graphs taken from 
+	 \cite{danan}.}
 	\label{fig:danan}
 \end{figure}
 
@@ -177,15 +185,15 @@ The surprising result from this experiment is obtained when the following
 changes are made, as illustrated in figure \ref{fig:danan-2b}:
 either the second beam splitter of the miniature Mach-Zehnder interferometer is 
 flipped, or mirror $B$ is moved to slightly adjust the path length, causing 
-destructive interference of the light propagating towards $F$. Seemingly, the 
-only possible path the light could take to reach the detector is via mirror 
-$C$. Yet, the observed spectrum contains frequency signatures from mirrors $A$ 
-and $B$. To verify the destructive interference of light directed towards $F$, 
-the path from $C$ to the detector is blocked (figure~\ref{fig:danan-2c}), 
-yielding a null result. Somehow, light from the nested Mach-Zehnder 
-interferometer is making its way to the detector! Furthermore, even though the 
-photon somehow "visits" mirrors $A$ and $B$, it avoids picking up the frequency 
-signatures of mirrors $E$ and $F$! How? 
+destructive interference of the light propagating towards $F$\cite{danan}.  
+Seemingly, the only possible path the light could take to reach the detector is 
+via mirror $C$. Yet, the observed spectrum contains frequency signatures from 
+mirrors $A$ and $B$. To verify the destructive interference of light directed 
+towards $F$, the path from $C$ to the detector is blocked 
+(figure~\ref{fig:danan-2c}), yielding a null result. Somehow, light from the 
+nested Mach-Zehnder interferometer is making its way to the detector!  
+Furthermore, even though the photon somehow ``visits" mirrors $A$ and $B$, it 
+avoids picking up the frequency signatures of mirrors $E$ and $F$! How? 
 
 \begin{framed}
 
@@ -202,37 +210,39 @@ signatures of mirrors $E$ and $F$! How?
 \end{framed}
 
 There have been arguments against this experimental procedure, claiming that 
-the vibration of the mirrors prevents full quantum interference from occuring.  
-However, Danan et al. argue that a simpler explanation is possible, using 
-description of quantum mechanics called the Two-State Vector Formalism (TSVF). 
+the vibration of the mirrors prevents full quantum interference from 
+occuring\cite{comment,past}.  However, Danan et al. argue that a simpler 
+explanation is possible, using description of quantum mechanics called the 
+Two-State Vector Formalism (TSVF)\cite{danan,aharonov2008}. 
 
 In the standard quantum mechanics formalism that undergraduate students of 
 physics are familiar with, if a quantum system is measured (pre-selected) to be 
 in a state $\ket \psi$ at time $t = t_1$, all information it is possible to 
 know about the system at a subsequent time $t \geq t_1$ is contained in the 
 state vector $$\ket{\hat U_{t t_1}\psi}$$ where $\hat U$ denotes its evolution 
-in time after measurement at $t_1$, as given by the Schrödinger equation. Using 
-this, one can express the quantum amplitude for observing a value $a_m$ of a 
-physical observable $A$ at time $t$ as the inner product $$c_m = 
-\braket{a_m|\hat U_{t t_1}\psi}$$ with the likelihood of this observation being 
-given by ${|c_m|}^2$. 
+in time after measurement at $t_1$, as given by the Schrödinger 
+equation\cite{aharonov2008}.  Using this, one can express the quantum amplitude 
+for observing a value $a_m$ of a physical observable $A$ at time $t$ as the 
+inner product $$c_m = \braket{a_m|\hat U_{t t_1}\psi}$$ with the likelihood of 
+this observation being given by ${|c_m|}^2$. 
 
 Proponents of TSVF claim that the concept of a quantum state has the limitation 
 that it is \textit{time-asymmetric}, as it is defined by measurements made in 
-the \textit{past}.  Of course, in classical physics, we are used to measuring a 
-system at a time $t_1 < t$ to describe its state at $t$, but this does not 
-amount to time-asymmetry. This is because for a classical system, the results 
-of measurements performed in the future are already known after measurement 
-performed in the past. On the other hand, for a quantum system, measurement 
-only partially constrains the possible results of measurements at subsequent 
-times, making the standard quantum mechanics formalism truly time-asymmetric. 
+the \textit{past}\cite{aharonov,danan,past}. Of course, in classical physics, 
+we are used to measuring a system at a time $t_1 < t$ to describe its state at 
+$t$, but this does not amount to time-asymmetry. This is because for a 
+classical system, the results of measurements performed in the future are 
+already known after measurement performed in the past\cite{aharonov2008}. On 
+the other hand, for a quantum system, measurement in the past only partially 
+constrains the possible results of measurements at subsequent times, making the 
+standard quantum mechanics formalism truly time-asymmetric. 
 
 In Danan et al.'s interferometer, the position of the photon at the beginning 
 of the experiment (i.e. at the light source) is known, as well as the position 
 at the end (i.e.  at the light detector). That is to say, the system being 
 described in the experiment is both pre- and post-selected. The authors claim 
 that it is this aspect of the experiment that makes it hard to describe using 
-the standard formalism and the associated "common sense" approach to the past 
+the standard formalism and the associated ``common sense" approach to the past 
 of a quantum particle.
 
 Consider a simple quantum system that is pre-selected to be in the state
@@ -242,7 +252,7 @@ of finding it in state $\ket{a_m}$ given that it is in state $\ket{\psi_1}$ at
 $t_1$, $$\braket{a_m|\hat U_{t t_1} \psi_1}$$ and of finding it in the state 
 $\bra{\psi_2}$ at $t_2$ given that it is in the state $\ket{a_m}$ at time $t$, 
 $$\braket{\psi_2|\hat U_{t t_2} a_m}$$ with $\hat U_{t_a t_b}$ denoting time 
-evolution of a state between $t_a$ and $t_b$ as before.
+evolution of a state between $t_a$ and $t_b$ as before\cite{aharonov2008}.
 
 Using standard quantum mechanics, if we want to calculate the likelihood of 
 observing the value $a_m$ for the observable $A$ at time $t$ between $t_1$ and 
@@ -250,48 +260,31 @@ $t_2$, we can multiply the individual complex amplitudes calculated above, with
 the former representing pre-selection, and the latter representing 
 post-selection: $$c_m = \underbrace{\braket{\psi_2|\hat U_{t t_2} 
 a_m}}_{post-selection} \underbrace{\braket{a_m|\hat U_{t t_1} 
-\psi_1}}_{pre-selection}$$. By performing a mathematical operation under the 
-standard quantum mechanical formalism, we can replace $\braket{\psi_2|\hat U_{t 
+\psi_1}}_{pre-selection}$$\cite{aharonov2008}. By performing a standard 
+mathematical operation\footnote{called "transposing" an operator} under our 
+usual quantum mechanical formalism, we can replace $\braket{\psi_2|\hat U_{t 
 t_2} a_m}$ with the expression $\braket{\hat U_{t t_2}^{\dagger}\psi_2|a_m}$.  
 This gives $$c_m = \braket{\hat U_{t t_2}^\dagger\psi_2| a_m} \braket{a_m|\hat 
 U_{t t_1} \psi_1}$$. 
 
 We can interpret this as involving the \textit{backwards-evolving} quantum 
-state $\bra{\hat U_{t t_2}^{\dagger}\psi_2}$, "prepared" at a time $t_2 > t$.  
+state $\bra{\hat U_{t t_2}^{\dagger}\psi_2}$, ``prepared" at a time $t_2 > t$.  
 TSVF treats the two-state vector $$\bra{\hat U_{t t_2}^{\dagger}\psi_2} 
 ~\ket{\hat U_{t t_1}\psi}$$ consisting of a backwards-evolving vector and a 
 standard forward-evolving vector as containing absolute, concise information 
-about a quantum state that has undergone pre and post-selection.
+about a quantum state that has undergone pre and 
+post-selection\cite{aharonov2008,danan}.
 
 In context of the Tel-Aviv experiment, this means that it is the locations 
 where the forwards and backwards-evolving paths coincide that will have their 
-frequencies appear in the observed power spectrum. Danan et al. argue that even 
-though it is possible to explain their results using the standard quantum 
-mechanical formalism\footnote{Using a phenomenon known as 
+frequencies appear in the observed power spectrum\cite{danan}. Danan et al.  
+argue that even though it is possible to explain their results using the 
+standard quantum mechanical formalism\footnote{Using a phenomenon known as 
 \textit{super-oscillations}}, it finds its simplest explanation using TSVF, 
 where the past and the future are placed on equal footing.  
 
-\subsection*{References}
 
-\begin{enumerate}
-	\item   Danan, A., Farfurnik, D., Bar-Ad, S., \& Vaidman, L. (2013).  
-		Asking Photons Where They Have Been. Phys. Rev. Lett., 
-		\textbf{111}, 240402.
-	\item  	Aharonov Y., Vaidman L. (2008) The Two-State Vector Formalism: 
-		An Updated Review. In: Muga J., Mayato R.S., Egusquiza Í. (eds) 
-		Time in Quantum Mechanics.  Lecture Notes in Physics, \textbf{734}.  
-
-	\item 	N. Bohr, in Albert Einstein: Philosopher-Scientist, edited by 
-		P.  A. Schilpp (Library of Living Philosophers, Evanston, 
-		1949); reprinted in Quantum Theory and Measurement, edited by 
-		J. A.  Wheeler and W. H. Zurek (Princeton University Press, 
-		Princeton, 1983)
-
-	\item	J. S. Lundeen, Physics, \textbf 6, 133 (2013).
-
-\end{enumerate}
-
-\bibliographystyle{plain} % We choose the "plain" reference style
+\bibliographystyle{unsrt} % We choose the "plain" reference style
 \nocite{*}
 \bibliography{refs} % Entries are in the refs.bib file
 
