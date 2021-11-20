@@ -6,3 +6,4 @@
 6. PH2012 QM notes (if possible)
 
 http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/interf.html#c2
+https://doi.org/10.1103/PhysRevA.88.046102
